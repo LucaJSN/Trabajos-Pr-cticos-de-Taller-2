@@ -1,0 +1,10 @@
+C:\Users\lucaj\source\repos\Formulario1\Practico1\bin\Debug\Practico1.exe.config
+C:\Users\lucaj\source\repos\Formulario1\Practico1\bin\Debug\Practico1.exe
+C:\Users\lucaj\source\repos\Formulario1\Practico1\bin\Debug\Practico1.pdb
+C:\Users\lucaj\source\repos\Formulario1\Practico1\obj\Debug\Practico1.csproj.AssemblyReference.cache
+C:\Users\lucaj\source\repos\Formulario1\Practico1\obj\Debug\Practico1.Formulario1.resources
+C:\Users\lucaj\source\repos\Formulario1\Practico1\obj\Debug\Practico1.Properties.Resources.resources
+C:\Users\lucaj\source\repos\Formulario1\Practico1\obj\Debug\Practico1.csproj.GenerateResource.cache
+C:\Users\lucaj\source\repos\Formulario1\Practico1\obj\Debug\Practico1.csproj.CoreCompileInputs.cache
+C:\Users\lucaj\source\repos\Formulario1\Practico1\obj\Debug\Practico1.exe
+C:\Users\lucaj\source\repos\Formulario1\Practico1\obj\Debug\Practico1.pdb
